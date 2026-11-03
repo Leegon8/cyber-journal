@@ -1,3 +1,5 @@
+![cyber-journal header](assets/header.gif)
+
 # cyber-journal
 
 My cybersecurity learning path, documented as I go.
