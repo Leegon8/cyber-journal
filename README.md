@@ -13,6 +13,12 @@ I come from low-level C projects at 42 and I'm building my security skills throu
 - Networking review: DNS, NAT and the OSI and TCP/IP models
 - Setting up a Raspberry Pi as a home lab, with security checks
 
+## Projects
+
+| # | Project | Topic |
+| --- | --- | --- |
+| 01 | [sniff](01-sniff/) | Pending |
+
 ## How it works
 
 - Work is split into phases, each with its own goals.
