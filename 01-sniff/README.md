@@ -1,3 +1,5 @@
+![01-sniff header](img/header.gif)
+
 # 01 · sniff
 
 Capturo mi propio tráfico y explico qué ocurre entre que escribo un dominio y la web aparece en pantalla.
